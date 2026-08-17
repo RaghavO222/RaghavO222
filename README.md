@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Raghav!+%F0%9F%91%8B;AI%2FML+Developer+%40+Altruist+India;Building+Intelligent+Vision+Systems;Full-Stack+MERN+Engineer" alt="Typing SVG" />
