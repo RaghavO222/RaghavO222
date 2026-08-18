@@ -1,6 +1,19 @@
 <div align="center"> <img src="assets/banner.svg" alt="Raghav — AI/ML Developer" width="100%"/> <br/>
 
-<a href="mailto:raghav6542@gmail.com"><img src="https://img.shields.io/badge/Email-raghav6542%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a> <a href="https://linkedin.com/in/raghav0222"><img src="https://img.shields.io/badge/LinkedIn-raghav0222-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<div align="center">
+  <nobr>
+    <a href="https://github.com/RaghavO222"><img src="assets/contacts/contact1.svg?v=3" width="5.92%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
+--><a href="mailto:raghav6542@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="4.86%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
+--><a href="https://linkedin.com/in/raghav0222"><img src="assets/contacts/contact3.svg?v=3" width="5.92%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
+--><a href="https://leetcode.com/u/Raghav0222"><img src="assets/contacts/contact4.svg" width="5.68%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" />
+  </nobr>
+</div>
+
+<br>
 
 </div> <br/>
 👋 About Me
