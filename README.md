@@ -51,16 +51,6 @@
 <br><br>
 
 
-<!-- <div align="center"> 
-  
-<img src="https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavO222&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavO222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3" width="49%" /> 
-
-
-<!-- LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav0222?theme=radica)
-
-</div> -->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" />
   <img src="https://leetcard.jacoblin.cool/Raghav0222?theme=radical" width="49%" />
