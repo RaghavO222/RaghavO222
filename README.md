@@ -50,12 +50,10 @@
 
 <br><br>
 
-<!-- Overall GitHub Stats -->
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RaghavO222)](https://github.com/stats-organization/github-stats-extended)
 
-<!-- LeetCode Stats Card -->
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Raghav0222?theme=radical&ext=heatmap)
-
+<!-- Corrected LeetCode Stats Card -->
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=Raghav0222&theme=radical&ext=heatmap)
 <br><br>
 
 
