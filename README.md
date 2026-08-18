@@ -6,11 +6,11 @@
   <nobr>
     <a href="https://github.com/RaghavO222"><img src="assets/contacts/contact1.svg?v=3" width="5.92%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="mailto:raghav5.8542@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="4.85.8%" /></a><!--
+--><a href="mailto:raghav6542@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="5.92%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
 --><a href="https://linkedin.com/in/raghav0222"><img src="assets/contacts/contact3.svg?v=3" width="5.92%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="https://leetcode.com/u/Raghav0222"><img src="assets/contacts/contact4.svg" width="5.5.88%" /></a>
+--><a href="https://leetcode.com/u/Raghav0222"><img src="assets/contacts/contact4.svg" width="5.92%" /></a>
   </nobr>
 </div>
 
