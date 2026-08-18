@@ -54,7 +54,7 @@
 ![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=radical)
 
 <!-- LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/RaghavO222?theme=radical&ext=heatmap)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=RaghavO222?theme=radical&ext=heatmap)
 
 <br><br>
 
