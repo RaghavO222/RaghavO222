@@ -43,7 +43,8 @@
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/16-pytorch.svg" title="PyTorch" width="4.885%" /><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
--->
+--><img src="assets/icons/opencv.svg" title="OpenCV" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" />
   </nobr>
 </div>
 
