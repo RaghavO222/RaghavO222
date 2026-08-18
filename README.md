@@ -51,13 +51,13 @@
 <br><br>
 
 <div align="center">
-  <nobr>
+  
     <!-- Overall GitHub Stats -->
 ![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=radical)<!--
 --><!-- LeetCode Stats Card -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav0222?theme=radical&ext=heatmap)
 
-  </nobr>
+  
 </div>
 
 
