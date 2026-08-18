@@ -1,0 +1,47 @@
+<svg width="100%" height="320" viewBox="0 0 920 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="blurGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+
+  <!-- ambient glow blobs -->
+  <circle cx="880" cy="35" r="100" fill="#8B5CF6" opacity="0.45" filter="url(#blurGlow)"/>
+  <circle cx="35" cy="290" r="90" fill="#06B6D4" opacity="0.40" filter="url(#blurGlow)"/>
+
+  <!-- card -->
+  <rect x="10" y="10" width="900" height="290" rx="18" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="2"/>
+
+  <!-- title bar -->
+  <path d="M10 28 a18 18 0 0 1 18 -18 h864 a18 18 0 0 1 18 18 v18 h-900 z" fill="#161B22"/>
+  <line x1="10" y1="46" x2="910" y2="46" stroke="#21262D" stroke-width="1"/>
+
+  <circle cx="34" cy="28" r="6" fill="#FF5F56"/>
+  <circle cx="52" cy="28" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="28" r="6" fill="#27C93F"/>
+
+  <text x="460" y="32" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="12" fill="#8B949E">raghav@github: ~</text>
+
+  <!-- code body -->
+  <text x="40" y="90" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#C586C0">const</tspan><tspan fill="#E6EDF3"> </tspan><tspan fill="#9CDCFE">developer</tspan><tspan fill="#D4D4D4"> = {</tspan></text>
+
+  <text x="40" y="120" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">name</tspan><tspan fill="#D4D4D4">: </tspan><tspan fill="#CE9178">"Raghav",</tspan></text>
+
+  <text x="40" y="150" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">role</tspan><tspan fill="#D4D4D4">: </tspan><tspan fill="#CE9178">"AI / ML Developer",</tspan></text>
+
+  <text x="40" y="180" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">focus</tspan><tspan fill="#D4D4D4">: [</tspan><tspan fill="#CE9178">"Computer Vision", "RAG Systems", "MERN Stack"</tspan><tspan fill="#D4D4D4">],</tspan></text>
+
+  <text x="40" y="210" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">building</tspan><tspan fill="#D4D4D4">: </tspan><tspan fill="#CE9178">"AI proposal systems @ Altruist India"</tspan></text>
+
+  <text x="40" y="240" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"><tspan fill="#D4D4D4">};</tspan></text>
+
+  <!-- prompt with blinking cursor -->
+  <text x="40" y="270" font-family="Consolas, monospace" font-size="16"><tspan fill="#27C93F">➜</tspan></text>
+  <rect x="62" y="257" width="9" height="16" fill="#06B6D4">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
