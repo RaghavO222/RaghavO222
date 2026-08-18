@@ -52,14 +52,14 @@
 
 <div align="center">
   <nobr>
-    <a href="https://leetcode.com/u/Raghav0222"><img src="assets/stats/stats1.svg" width="49.29%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
---><a href="https://github.com/Raghav0222"><img src="assets/stats/stats2.svg" width="49.29%" /></a>
+    <!-- Overall GitHub Stats -->
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavO222&show_icons=true&theme=radical)<!--
+--><!-- LeetCode Stats Card -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav0222?theme=radical&ext=heatmap)
+
   </nobr>
 </div>
 
-<!-- LeetCode Stats Card -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav0222?theme=radical&ext=heatmap)
 
 <br><br>
 
