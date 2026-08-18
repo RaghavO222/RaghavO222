@@ -58,6 +58,9 @@
   </nobr>
 </div>
 
+<!-- LeetCode Stats Card -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raghav0222?theme=radical&ext=heatmap)
+
 <br><br>
 
 
