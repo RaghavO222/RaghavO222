@@ -53,11 +53,9 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Raghav0222?theme=radical" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavO222&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" width="49%" />
 </div>
+
 
 <br><br>
 
