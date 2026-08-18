@@ -8,43 +8,47 @@
       <feGaussianBlur stdDeviation="45"/>
     </filter>
 
-    <!-- SMIL animated clip-paths -->
-    <clipPath id="cp1">
-      <rect x="35" y="70" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="0.3s" dur="0.8s" fill="freeze" calcMode="discrete" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="0; 150; 300; 450; 600; 800" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="cp2">
-      <rect x="35" y="100" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="1.1s" dur="0.8s" fill="freeze" calcMode="discrete" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="0; 150; 300; 450; 600; 800" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="cp3">
-      <rect x="35" y="130" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="1.9s" dur="0.9s" fill="freeze" calcMode="discrete" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="0; 150; 300; 450; 600; 800" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="cp4">
-      <rect x="35" y="160" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="2.8s" dur="1.2s" fill="freeze" calcMode="discrete" keyTimes="0; 0.15; 0.3; 0.5; 0.7; 0.85; 1" values="0; 120; 240; 380; 520; 660; 800" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="cp5">
-      <rect x="35" y="190" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="4.0s" dur="1.3s" fill="freeze" calcMode="discrete" keyTimes="0; 0.15; 0.3; 0.5; 0.7; 0.85; 1" values="0; 120; 240; 380; 520; 680; 800" />
-      </rect>
-    </clipPath>
-
-    <clipPath id="cp6">
-      <rect x="35" y="220" width="0" height="25">
-        <animate attributeName="width" from="0" to="800" begin="5.3s" dur="0.4s" fill="freeze" calcMode="discrete" keyTimes="0; 0.5; 1" values="0; 50; 800" />
-      </rect>
-    </clipPath>
+    <!-- Clip paths for the typing animation -->
+    <clipPath id="cp1"><rect class="type-rect line1" x="35" y="70" height="25"/></clipPath>
+    <clipPath id="cp2"><rect class="type-rect line2" x="35" y="100" height="25"/></clipPath>
+    <clipPath id="cp3"><rect class="type-rect line3" x="35" y="130" height="25"/></clipPath>
+    <clipPath id="cp4"><rect class="type-rect line4" x="35" y="160" height="25"/></clipPath>
+    <clipPath id="cp5"><rect class="type-rect line5" x="35" y="190" height="25"/></clipPath>
+    <clipPath id="cp6"><rect class="type-rect line6" x="35" y="220" height="25"/></clipPath>
   </defs>
+
+  <style>
+    /* The core typing animation that widens the clip path */
+    @keyframes typing {
+      0% { width: 0; }
+      100% { width: 800px; }
+    }
+    
+    /* Animation to reveal the terminal prompt at the very end */
+    @keyframes show {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    .type-rect {
+      width: 0;
+      animation: typing 1s steps(40, end) forwards;
+    }
+
+    /* Staggering the lines one after the other */
+    .line1 { animation-delay: 0.5s; }
+    .line2 { animation-delay: 1.5s; }
+    .line3 { animation-delay: 2.5s; }
+    .line4 { animation-delay: 3.5s; animation-duration: 1.5s; } /* Longer line gets slightly longer duration */
+    .line5 { animation-delay: 5.0s; animation-duration: 1.5s; } /* Longer line gets slightly longer duration */
+    .line6 { animation-delay: 6.5s; animation-duration: 0.5s; }
+
+    .prompt-group {
+      opacity: 0;
+      animation: show 0.1s forwards;
+      animation-delay: 7s;
+    }
+  </style>
 
   <!-- ambient glow blobs -->
   <circle cx="880" cy="35" r="100" fill="#8B5CF6" opacity="0.45" filter="url(#blurGlow)"/>
@@ -63,7 +67,7 @@
 
   <text x="460" y="32" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="12" fill="#8B949E">raghav@github: ~</text>
 
-  <!-- code body -->
+  <!-- code body (now bound to clip paths) -->
   <text x="40" y="90" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve" clip-path="url(#cp1)"><tspan fill="#C586C0">const</tspan><tspan fill="#E6EDF3"> </tspan><tspan fill="#9CDCFE">developer</tspan><tspan fill="#D4D4D4"> = {</tspan></text>
 
   <text x="40" y="120" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve" clip-path="url(#cp2)"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">name</tspan><tspan fill="#D4D4D4">: </tspan><tspan fill="#CE9178">"Raghav",</tspan></text>
@@ -76,9 +80,8 @@
 
   <text x="40" y="240" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve" clip-path="url(#cp6)"><tspan fill="#D4D4D4">};</tspan></text>
 
-  <!-- prompt with blinking cursor -->
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="5.7s" dur="0.01s" fill="freeze"/>
+  <!-- prompt with blinking cursor (appears at the end) -->
+  <g class="prompt-group">
     <text x="40" y="270" font-family="Consolas, monospace" font-size="16"><tspan fill="#27C93F">➜</tspan></text>
     <rect x="62" y="257" width="9" height="16" fill="#06B6D4">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
