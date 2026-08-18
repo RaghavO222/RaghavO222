@@ -16,6 +16,39 @@
 
 <br>
 
+
+<div align="center">
+  <nobr>
+    <img src="assets/icons/1-lucide_icons.svg" title="Lucide Icons" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/2-nodejs.svg" title="Node.js" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/5-docker.svg" title="Docker" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/6-typescript.svg" title="TypeScript" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/7-javascript.svg" title="JavaScript" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/8-reactjs.svg" title="React JS" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/9-nextjs.svg" title="Next.js" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/10-tailwind_css.svg" title="Tailwind CSS" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/13-python.svg" title="Python" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/14-jupyter.svg" title="Jupyter Notebook" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/15-numpy.svg" title="NumPy" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/16-pytorch.svg" title="PyTorch" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
+--><img src="assets/icons/17-flutter.svg" title="Flutter" width="4.885%" /><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" />
+  </nobr>
+</div>
+
+
 </div> <br/>
 👋 About Me
 🔭 Currently working as an AI/ML Developer at Altruist India, engineering an AI-driven proposal system for Teligent that analyzes site photos, videos, and DXF schematics to recommend antenna and radio upgrades.
