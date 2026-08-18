@@ -50,6 +50,58 @@
 
 <br><br>
 
+<h3 align="center">🛠️ Languages & Core</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
+</div>
+
+<h3 align="center">🎨 Frontend & UI</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React JS" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" title="Next.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" height="40" />&nbsp;
+  <!-- Zustand doesn't have an official SVG logo in main libraries, using its popular bear emoji representation via a text badge -->
+  <img src="https://img.shields.io/badge/-Zustand-444444?style=flat-square&logo=react&logoColor=white" title="Zustand" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/lucide/F97316" title="Lucide Icons" width="40" height="40" />
+</div>
+
+<h3 align="center">⚙️ Backend, DB & Infrastructure</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/white" title="Express.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
+</div>
+
+<h3 align="center">🧠 AI, Data Science & Tooling</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/white" title="LangChain" width="40" height="40" />
+</div>
+
+<h3 align="center">🎙️ Specialized Integrations</h3>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/deepgram/white" title="Deepgram" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/elevenlabs/white" title="ElevenLabs" width="40" height="40" />&nbsp;
+  <!-- MCP Server is Anthropic's protocol; using the Anthropic logo -->
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" title="MCP Server" width="40" height="40" />&nbsp;
+  <!-- ezdxf is a python library for AutoCAD files; using the AutoCAD icon -->
+  <img src="https://cdn.simpleicons.org/autocad/white" title="ezdxf" width="40" height="40" />
+</div>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Raghav0222?theme=radical" width="49%" />
@@ -79,31 +131,6 @@
   </a>
 </div>
 
-
-</div> <br/>
-👋 About Me
-🔭 Currently working as an AI/ML Developer at Altruist India, engineering an AI-driven proposal system for Teligent that analyzes site photos, videos, and DXF schematics to recommend antenna and radio upgrades.
-🌱 Pioneered an AI-driven RAG chatbot for Secova, revolutionizing enterprise knowledge management and boosting information retrieval efficiency by 40%.
-🎓 B.E. in Computer Science and Engineering from Chitkara University — CGPA 9.12/10.
-✍️ Authored research on AI-Powered Complaint Validation for Vehicle Obstruction in Smart Cities (YOLOv8-seg, ResNet-18, DPT-Large), and co-authored a study on Advances in Moving Object Segmentation for Video Surveillance.
-💬 Ask me about: Computer Vision, Redis caching, and scalable event-driven notification systems.
-⚡ Fun fact: led a team to a 1st place championship at Gamescon, and won a Silver Medal at the National Science Olympiad.
-🧑‍🏫 Mentored 60+ students in Data Structures & Algorithms as a Teaching Assistant, and led web development programs for school students.
-<br/>
-🧠 Tech Stack
-
-AI, ML & Data Science
-
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/PyTorch-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/HuggingFace-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Pandas-06B6D4?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Matplotlib-8B5CF6?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/LangChain-06B6D4?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-
-Web, Databases & Core
-
-<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Java-06B6D4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/MERN%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Firebase-8B5CF6?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117" /> <br/>
-🔬 Featured Work
-Vehicle Obstruction & 3D Spatial Audit — a 3D reconstruction and navigation-space analysis system that computes vehicle dimensions and assesses maneuvering space for complaint validation.
-TransGlobal Logistics Platform — led a distributed team to build a MERN platform that removed a key parking bottleneck and cut incident resolution time by 70%, including a secure admin backend for uploading obstruction photos.
-UNAI — collaborated with an international student team on a real-time social platform designed for meaningful engagement.
-<div align="center">
-
-</div>
- <br/> <div align="center"> <img src="assets/footer.svg" alt="footer" width="100%"/> </div>
+ <br/> 
+ 
+ <div align="center"> <img src="assets/footer.svg" alt="footer" width="100%"/> </div>
