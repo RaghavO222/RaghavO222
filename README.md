@@ -48,6 +48,29 @@
   </nobr>
 </div>
 
+<br><br>
+
+<div align="center">
+  <nobr>
+    <a href="https://leetcode.com/u/Raghav0222"><img src="assets/stats/stats1.svg" width="49.29%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://github.com/Raghav0222"><img src="assets/stats/stats2.svg" width="49.29%" /></a>
+  </nobr>
+</div>
+
+<br><br>
+
+<div align="center">
+  <nobr>
+    <a href="https://github.com/Raghav0222/nodomo"><img src="assets/projects/project1.svg" width="23.935%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://github.com/Raghav0222/learnrun"><img src="assets/projects/project2.svg" width="23.935%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://github.com/Raghav0222/rawgen-ai"><img src="assets/projects/project3.svg" width="23.935%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
+--><a href="https://github.com/Raghav0222/pandora-club"><img src="assets/projects/project4.svg" width="23.935%" /></a>
+  </nobr>
+</div>
 
 </div> <br/>
 👋 About Me
@@ -73,10 +96,6 @@ Vehicle Obstruction & 3D Spatial Audit — a 3D reconstruction and navigation-sp
 TransGlobal Logistics Platform — led a distributed team to build a MERN platform that removed a key parking bottleneck and cut incident resolution time by 70%, including a secure admin backend for uploading obstruction photos.
 UNAI — collaborated with an international student team on a real-time social platform designed for meaningful engagement.
 <div align="center">
-
-<a href="https://github.com/RaghavO222/MoveMyRide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=MoveMyRide&theme=dark&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3&border_color=21262D" /></a> <a href="https://github.com/RaghavO222/CollegeManagement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=CollegeManagement&theme=dark&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3&border_color=21262D" /></a>
-
-<a href="https://github.com/RaghavO222/quizmania"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=quizmania&theme=dark&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3&border_color=21262D" /></a> <a href="https://github.com/RaghavO222/libraryraghav"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=libraryraghav&theme=dark&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3&border_color=21262D" /></a>
 
 </div> <br/>
 📊 GitHub Analytics
