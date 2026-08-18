@@ -1,4 +1,6 @@
-<div align="center"> <img src="assets/banner.svg" alt="Raghav — AI/ML Developer" width="100%"/> <br/>
+<div align="center">
+  <img src="assets/banner.svg?v=2" alt="Animated Banner" />
+</div>
 
 <div align="center">
   <nobr>
