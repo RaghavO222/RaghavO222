@@ -59,6 +59,26 @@
 
 <br><br>
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/RaghavO222/YOUR_REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" />
+  </a>
+  <a href="https://github.com/RaghavO222/YOUR_REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RaghavO222/YOUR_REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=YOUR_REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" />
+  </a>
+  <a href="https://github.com/RaghavO222/YOUR_REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghavO222&repo=YOUR_REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E6EDF3" width="49%" />
+  </a>
+</div>
+
 
 </div> <br/>
 👋 About Me
