@@ -60,17 +60,6 @@
 
 <br><br>
 
-<div align="center">
-  <nobr>
-    <a href="https://github.com/Raghav0222/nodomo"><img src="assets/projects/project1.svg" width="23.935%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
---><a href="https://github.com/Raghav0222/learnrun"><img src="assets/projects/project2.svg" width="23.935%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
---><a href="https://github.com/Raghav0222/rawgen-ai"><img src="assets/projects/project3.svg" width="23.935%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="1.42%" /><!--
---><a href="https://github.com/Raghav0222/pandora-club"><img src="assets/projects/project4.svg" width="23.935%" /></a>
-  </nobr>
-</div>
 
 </div> <br/>
 👋 About Me
